@@ -1,5 +1,5 @@
 # tooling-solution-for-a-devops-team
-This project implements a web solution for a sample DevOps team using LAMP stack with remote Database and NFS servers.
+This project implements a cloud web solution for a fictitious company with 2 products sample DevOps team using LAMP stack with remote Database and NFS servers.
 
 Starting Off Your AWS Cloud Project
 There are few requirements that must be met before you begin:
