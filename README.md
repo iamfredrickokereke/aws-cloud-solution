@@ -1,4 +1,7 @@
-# tooling-solution-for-a-devops-team
+# Cloud-solution-for-a-devops-team
+
+![image](https://user-images.githubusercontent.com/38326256/127779110-1c21a07b-93b7-4861-9fe8-fea5784a1999.png)
+
 This project implements a cloud web solution for a fictitious company with 2 products sample DevOps team using LAMP stack with remote Database and NFS servers.
 
 Starting Off Your AWS Cloud Project
