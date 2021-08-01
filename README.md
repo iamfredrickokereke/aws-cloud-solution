@@ -16,10 +16,6 @@ Move the DevOps account into the Dev OU.
 Login to the newly created AWS account using the new email address.
 Create a free domain name for your fictitious company at Freenom domain registrar here.
 
-Create a hosted zone in AWS, and map it to your free domain from Freenom. Watch how to do that here
 
-NOTE : As you proceed with configuration, ensure that all resources are appropriately tagged, for example:
 
-Project: <Give your project a name>
-Environment: <dev>
-Automated: <No> (If you create a recource using an automation tool, it would be <Yes>)
+### Project under development
